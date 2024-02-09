@@ -6,7 +6,7 @@ public class Main {
         GestorAlumnos gestorAlumnos = new GestorAlumnos();
 
         boolean continuar = true;
-        while (continuar) { 77
+        while (continuar) {
             System.out.println("Menú:");
             System.out.println("|1| Agregar alumno");
             System.out.println("|2| Mostrar alumnos");
